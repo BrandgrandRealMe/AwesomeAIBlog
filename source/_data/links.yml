@@ -1,0 +1,32 @@
+- title: Featured
+
+- name: you.com
+  link: https://you.com/
+  description: You.com is a AI powered search engine.
+  avatar: https://you.com/favicon/apple-touch-icon-114x114.png
+
+- title: Text Generation
+
+- name: gpt4all
+  link: https://gpt4all.io/index.html
+  description: A free-to-use, locally running, privacy-aware ChatGPT.
+
+- name: Ora.ai
+  link: https://ora.ai/
+  description: A web platform where you can quickly build LLM apps in a shareable chat interface.
+  
+- title: Image Generation
+
+- name: CivitAI
+  link: https://civitai.com/
+  description: Browse, share, and review custom AI art models.
+
+- name: diffusionbee
+  link: https://diffusionbee.com/
+  description:  Create Images offline!
+  
+- title: Video Generation
+
+- name: runwayml
+  link: https://runwayml.com/
+  description:  Generate videos using text.
