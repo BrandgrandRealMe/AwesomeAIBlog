@@ -1,6 +1,6 @@
 ---
 title: 5 Awesome and Fun AI Websites You Should Try in 2023
-date: 2023/20/11 14:46:00
+date: 2023/11/20 14:46:00
 ---
 Artificial intelligence (AI) is not only a powerful technology that can transform various industries and domains, but also a source of fun and creativity. There are many AI websites that you can use to explore, learn, and play with AI in different ways. In this blog post, we will introduce some of the awesome and fun AI websites that you should try in 2023.
 
