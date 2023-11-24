@@ -9,11 +9,11 @@ function initPostShareHelper() {
       const shareContainer = document.querySelector('.post-share-container .share-list-wrap')
 
       // WeChat share
-      const wechatShare = shareContainer.querySelector('.wechat')
-      wechatShare &&
-        wechatShare.setAttribute(
+      const xShare = shareContainer.querySelector('.wechat')
+      xShare &&
+        xShare.setAttribute(
           'data-tooltip-img-url',
-          `https://api.qrserver.com/v1/create-qr-code?data=${pageUrl}`
+          `https://twitter.com/intent/tweet?text=View This Awesome Blog Post! ${pageUrl}`
         )
 
       shareContainer.querySelectorAll('.share-item').forEach((item) => {
