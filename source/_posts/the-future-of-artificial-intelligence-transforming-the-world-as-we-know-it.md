@@ -1,5 +1,5 @@
 ---
-title: The Future of Artificial Intelligence: Transforming the World as We Know It
+title: The Future of Artificial Intelligence
 date: 2024-2-7 6:18:00
 tags:
 ---
