@@ -1,6 +1,7 @@
 ---
 title:  Top 5 Awesome FOSS AI Tools & Websites
 date: 2023-11-26 15:01:12
+updated: 2023-11-26 15:01:12
 tags: FOSS
 ---
 Artificial intelligence (AI) is transforming the world in many ways, from enhancing productivity and efficiency to enabling new forms of creativity and innovation. However, not everyone has access to the latest and greatest AI technologies, especially if they are proprietary and expensive. That’s why open source AI is so important and valuable. Open source AI is AI that is publicly available for anyone to use, modify, and share under various open source licenses. Open source AI can include datasets, algorithms, and user interfaces that can help you create your own AI applications or improve existing ones. In this blog post, we will introduce you to the top 5 awesome FOSS (free and open source software) AI tools and websites that you can use for your personal or professional projects. These tools and websites cover various domains and tasks, such as natural language processing, computer vision, machine learning, and more. Whether you are a beginner or an expert, you will find something useful and interesting in this list.
