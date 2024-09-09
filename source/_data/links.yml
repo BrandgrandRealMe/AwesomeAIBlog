@@ -1,9 +1,14 @@
 - title: Featured
 
+- name: Codeium
+  link: https://codeium.com/
+  description: Codeium offers best in class AI code completion, search, and chat — all for free.
+  avatar: https://exafunction.github.io/public/icons/general.png
+
 - name: you.com
   link: https://you.com/
   description: You.com is a AI powered search engine.
-  avatar: https://you.com/favicon/apple-touch-icon-114x114.png
+  avatar: https://you.com/favicon/favicon-196x196.png
 
 - title: Text Generation
 
