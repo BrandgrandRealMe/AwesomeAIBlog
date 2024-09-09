@@ -1,7 +1,7 @@
 ---
 title:  Top 5 Awesome FOSS AI Tools & Websites
 date: 2023-11-26 15:01:12
-updated: 2023-11-26 15:01:12
+updated: 2024-9-9 12:30:00
 tags: FOSS
 ---
 Artificial intelligence (AI) is transforming the world in many ways, from enhancing productivity and efficiency to enabling new forms of creativity and innovation. However, not everyone has access to the latest and greatest AI technologies, especially if they are proprietary and expensive. That’s why open source AI is so important and valuable. Open source AI is AI that is publicly available for anyone to use, modify, and share under various open source licenses. Open source AI can include datasets, algorithms, and user interfaces that can help you create your own AI applications or improve existing ones. In this blog post, we will introduce you to the top 5 awesome FOSS (free and open source software) AI tools and websites that you can use for your personal or professional projects. These tools and websites cover various domains and tasks, such as natural language processing, computer vision, machine learning, and more. Whether you are a beginner or an expert, you will find something useful and interesting in this list.
@@ -21,8 +21,3 @@ ChatGPT is an open source AI conversation platform that uses a large language mo
 
 ## 5. Hugging Face
 Hugging Face is an open source AI company that provides a platform for natural language processing (NLP) and natural language generation (NLG). Hugging Face is best known for its Transformers library, which offers easy access to hundreds of pre-trained models for various NLP and NLG tasks, such as text classification, sentiment analysis, question answering, text summarization, text generation, and more. Hugging Face also provides tools and services for building, sharing, and deploying your own custom models, such as Datasets, Tokenizers, Spaces, and Inference API. Hugging Face is compatible with Python and supports multiple frameworks, such as TensorFlow, PyTorch, and JAX. Hugging Face also has a large and active community of users and contributors who provide helpful resources and support. You can use Hugging Face to build and deploy various types of NLP and NLG applications, such as chatbots, content creation, knowledge extraction, and more. You can install Hugging Face on Linux using pip or conda, and get started with its tutorials and documentation.
-
-
-#### Learn More!
-[^1]: [unite.ai](https://www.unite.ai/best-open-source-llms/)
-[^2]: [10web.io](https://10web.io/blog/ai-websites/)
