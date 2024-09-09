@@ -2,14 +2,15 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
+# Site Meta
 title: AwesomeAI
 subtitle: A place to post about awesome and Cool AI tools and toys!
-description: ''
+description: 'A place to post about awesome and Cool AI tools and toys!'
 keywords: AI
 author: BrandgrandReal
 language: en
 timezone: ''
+defaultthumb: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: keep
+theme: AwsomeAIKeep
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
