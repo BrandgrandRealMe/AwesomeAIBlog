@@ -1,0 +1,16 @@
+- name: Revolt
+  link: https://rvlt.gg/8QypS6KZ
+  description: Chat on our Revolt server!
+  image: images/logos/revolt.png
+- name: Bluesky
+  link: https://bsky.app/profile/awesomeai.bsky.social
+  description: Follow our Bluesky!
+  image: images/logos/bluesky.jpg
+- name: daily.dev
+  link: https://dly.to/YBgg7QXQlkC
+  description: Join our daily.dev squad!
+  image: images/logos/Daily.dev.png
+- name: Lemmy
+  link: https://lemmy.world/c/awesomeai
+  description: Post on our lemmy!
+  image: images/logos/lemmy.png
