@@ -119,5 +119,5 @@ feed:
   content_limit: 1000
   content_limit_delim: ' '
   order_by: -date
-  icon: icon.png
+  icon: logo.png
   autodiscovery: true

@@ -6,6 +6,11 @@ Allow: /tags/
 Allow: /links
 Allow: /ourlinks
 
+Disallow: /logo.svg
+Disallow: /images/brands/
+Disallow: /images/logos/
+Disallow: /images/avatars/
+Disallow: /logo.*$
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
