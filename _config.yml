@@ -4,17 +4,17 @@
 
 # Site Meta
 title: AwesomeAI
-subtitle: A place to post about awesome and Cool AI tools and toys!
-description: 'A place to post about awesome and Cool AI tools and toys!'
+subtitle: A place to read about awesome and Cool AI tools and toys!
+description: 'A place to read about awesome and Cool AI tools and toys!'
 keywords: AI
 author: BrandgrandReal
 language: en
-timezone: ''
-defaultthumb: ''
+timezone: America/Chicago
+defaultthumb: /images/Banner/wide.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://awesomeaiblog.pages.dev
+url: https://awesomeai.brandgrand.rocks
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
