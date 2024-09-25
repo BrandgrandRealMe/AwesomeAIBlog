@@ -38,6 +38,13 @@ We believe in the power of community learning. Join us in our journey to explore
 - Follow/Join us on social media: [Revolt](https://l.brandgrand.rocks/awesomeai/revolt), [Bluesky](https://l.brandgrand.rocks/awesomeai/bluesky), [daily.dev](https://l.brandgrand.rocks/awesomeai/dailydev), [Lemmy](https://l.brandgrand.rocks/awesomeai/lemmy)
 - Participate in our forums and discussions
 
+## Stay Updated with Our Newsletter
+Don't miss out on the latest AI insights and updates! Sign up for our newsletter:
+
+{% ns "keila" "https://app.keila.io/forms/nfrm_5w3py29k" "a1c5fab7-71df-4ea4-af75-87a3d07c61de" %}
+This newsletter uses <a href="https://www.keila.io/" target="_blank">Keila</a> and <a href="https://www.mailgun.com/" target="_blank">Mailgun</a> to work.<br>We personally will never sell your data or spam you. 
+{% endns %}
+
 ## Contact Us
 
 Have questions, suggestions, or want to contribute? We'd love to hear from you!
