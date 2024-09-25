@@ -41,8 +41,8 @@ We believe in the power of community learning. Join us in our journey to explore
 ## Stay Updated with Our Newsletter
 Don't miss out on the latest AI insights and updates! Sign up for our newsletter:
 
-{% ns "keila" "https://app.keila.io/forms/nfrm_5w3py29k" "a1c5fab7-71df-4ea4-af75-87a3d07c61de" %}
-This newsletter uses <a href="https://www.keila.io/" target="_blank">Keila</a> and <a href="https://www.mailgun.com/" target="_blank">Mailgun</a> to work.<br>We personally will never sell your data or spam you. 
+{% ns plunk "pk_bff9978e8aef56bcd5a71f9612151c02e77385ac9454021b" "n/a" %}
+This newsletter uses <a href="https://useplunk.com/" target="_blank">Plunk</a> to work.<br>We personally will never sell your data or spam you. 
 {% endns %}
 
 ## Contact Us
