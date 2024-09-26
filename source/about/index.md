@@ -41,7 +41,7 @@ We believe in the power of community learning. Join us in our journey to explore
 ## Stay Updated with Our Newsletter
 Don't miss out on the latest AI insights and updates! Sign up for our newsletter:
 
-{% ns plunk "pk_bff9978e8aef56bcd5a71f9612151c02e77385ac9454021b" "n/a" %}
+{% ns plunk "pk_bff9978e8aef56bcd5a71f9612151c02e77385ac9454021b" "6Ldu-U8qAAAAAKPe3Y_-KA_-r_QgOTAde8vT1qYJ" %}
 This newsletter uses <a href="https://useplunk.com/" target="_blank">Plunk</a> to work.<br>We personally will never sell your data or spam you. 
 {% endns %}
 
