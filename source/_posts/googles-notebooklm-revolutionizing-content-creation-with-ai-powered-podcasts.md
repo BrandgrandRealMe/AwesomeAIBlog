@@ -4,9 +4,9 @@ date: 2024-10-03 14:00:00
 updated: 2024-10-03 14:00:00
 excerpt: Dive deep into Google's groundbreaking AI podcast tool, NotebookLM. Discover how it transforms text into lifelike audio conversations, explore its features, understand its implications, and glimpse the future of content creation in this comprehensive analysis.
 description: Dive deep into Google's groundbreaking AI podcast tool, NotebookLM. Discover how it transforms text into lifelike audio conversations, explore its features, understand its implications, and glimpse the future of content creation in this comprehensive analysis.
-home_cover: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts\thumbnail.jpg
-post_cover: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts\thumbnail.jpg
-thumbnail: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts\thumbnail.jpg
+home_cover: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts/thumbnail.jpg
+post_cover: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts/thumbnail.jpg
+thumbnail: /images/googles-notebooklm-revolutionizing-content-creation-with-ai-powered-podcasts/thumbnail.jpg
 home_cover_height: 627
 post_cover_height: 627
 tags: 
