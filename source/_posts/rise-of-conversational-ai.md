@@ -1,7 +1,7 @@
 ---
 title: The Rise of Conversational AI 
-date: 2024-10-22 10:55:00
-updated: 2024-10-22 10:55:00
+date: 2024-10-23 10:55:00
+updated: 2024-10-23 10:55:00
 excerpt: Discover how conversational AI is revolutionizing the way we interact with technology. 
 description: Delve into the world of conversational AI and learn how it's transforming user experiences, bridging communication gaps, and making technology more intuitive and human-like. 
 home_cover: /images/rise-of-conversational-ai/thumbnail.png
